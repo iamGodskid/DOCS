@@ -1,0 +1,96 @@
+img{
+  height: 40px;
+  width: 40px;
+  border: none;
+}
+.navi{
+  display: inline-block;
+  width: 100%;
+}
+.navi:hover > .nav{
+  display: block;
+}
+.nav{
+  position: absolute;
+  width: 70%;
+  display: none;
+}
+.nav > a{
+  display: block;
+  padding: 10px;
+  text-decoration: none;
+  color: mediumseagreen;
+  font-weight: bold;
+  font-family: Monospace;
+  background: gray;
+  text-align: left;
+  margin-bottom: 5px;
+  position: relative;
+}
+.nav > a:hover{
+  color: black;
+  background: mediumseagreen;
+}
+.header{
+  background: black;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+}
+h1{
+  color: mediumseagreen;
+  font-size: 20px;
+  font-family: Monospace;
+  text-shadow: 2px 3px 2px gray;
+}
+hr{
+  margin-top: 90px;
+  background: mediumseagreen;
+}
+.item{
+  background-color: crimson;
+  box-sizing: border-box;
+  max-width: 100%;
+  left: -5px;
+  right: -5px;
+  
+}
+.sale{
+  box-shadow: 0px 2px 5px black;
+  height: 230px;
+  width: 85%;
+  margin: 0 auto;
+  float: center;
+  background: mediumseagreen;
+  
+}
+#sale{
+  height: 170px;
+  width: 100%;
+  top: 3px;
+  bottom: 0px;
+}
+.description{
+	padding: 0px 15px 15px 15px;
+	text-align: center;
+	font-size: 15px;
+	font-weight: bold;
+}
+p{
+  font-family: Monospace;
+}
+input{
+  float: right;
+  background: white;
+  height: 30px;
+  width: 150px;
+  border-right: 2px inset white;
+  border-bottom: 2px inset white;
+  margin-right: 1px;
+  margin-bottom: 0px;
+  border-radius: 5px;
+}
+input:hover{
+  background: aqua;
+}
