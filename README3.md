@@ -14,8 +14,8 @@
     <img src="download(1).png"/>
     <div class="nav">
       <a href="README.md">HOME</a>
-      <a href="Printer.html">PRINTER SOFTWARE/DRIVERS</a>
-      <a href="contact.html">CONTACT</a>
+      <a href="README3.md">PRINTER SOFTWARE/DRIVERS</a>
+      <a href="https://wa.me/07040335014">CONTACT</a>
     </div>
    <input type="search" placeholder="search..." name="q" autocomplete="on"/>
  </div>
