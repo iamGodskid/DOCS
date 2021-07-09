@@ -13,7 +13,7 @@
     <div class="navi">
     <img src="download(1).png"/>
     <div class="nav">
-      <a href="README.md">HOME</a>
+      <a href="index.html">HOME</a>
       <a href="index.html">PRINTER SOFTWARE/DRIVERS</a>
       <a href="https://wa.me/07040335014">CONTACT</a>
     </div>
