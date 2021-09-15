@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="printer plugin, free pdf, free documentations"/>
-  <link rel="stylesheet" href="index.css">
+  <link rel="stylesheet" href="http://fumacrom.com/28pBY">
   <script src="index.js"></script>
   <title>DOCS</title>
 </head>
@@ -14,9 +14,9 @@
     <div class="navi">
     <img src="download(1).png"/>
     <div class="nav">
-      <a href="index.html">HOME</a>
-      <a href="index.html">PRINTER SOFTWARE/DRIVERS/PDF</a>
-      <a href="https://wa.me/07040335014">CONTACT</a>
+      <a href="http://fumacrom.com/28pBZ">HOME</a>
+      <a href="http://fumacrom.com/28pBZ">PRINTER SOFTWARE/DRIVERS/PDF</a>
+      <a href="http://fumacrom.com/28pBa">CONTACT</a>
     </div>
  </div>
   </header>
@@ -24,7 +24,7 @@
   <hr/>
   <div id="item">
     <div class="sale">
-      <a href="https://www.freeprintersupport.com/hp-deskjet-1515-driver-download-ink-advantage-printer/">
+      <a href="http://fumacrom.com/28pBb">
       <center>
       <img id="sale" src="download-2.jpg"/>
       </center>
@@ -33,7 +33,7 @@
     </div>
     <br/>
  <div class="sale">
-     <a href="https://support.hp.com/us-en/drivers/selfservice/hp-deskjet-2130-all-in-one-printer-series/7174550/model/7174551">
+     <a href="http://fumacrom.com/28p9E">
       <center>
       <img id="sale" src="download-3.jpg"/>
       </center>
@@ -42,8 +42,7 @@
     </div>
     <br/>
  <div class="sale">
-     <a href="https://drive.google.com/file/d/1gSsVdmUE2wzd5S2G6A_mAZhYLHVy774O/view?usp=drivesdk 
-" target="_parent">
+     <a href="http://fumacrom.com/28pBc" target="_parent">
       <center>
       <img id="sale" src="download-4.jpg"/>
       </center>
